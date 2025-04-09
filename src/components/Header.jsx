@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "./../assets/images/Disney.png";
+import logo from "./../assets/images/logo.png";
 import {
   HiHome,
   HiStar,
