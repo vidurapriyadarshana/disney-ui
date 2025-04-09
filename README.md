@@ -1,12 +1,36 @@
-# React + Vite
+# 🎬 Disney+ UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <br />
+    <a target="_blank">
+      <img src="" alt="Project Banner">
+    </a>
+  <br />
 
-Currently, two official plugins are available:
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A visually stunning and responsive UI clone of Disney+, built using **React.js** and **Tailwind CSS** for the frontend. This project uses **Axios** for handling API requests and **Node.js** as a backend layer (optional). It focuses on mimicking the layout, animation, and user experience of the official Disney+ streaming platform.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- ✅ Disney+ style homepage layout
+- ✅ Horizontal scroll sections (Trending, Recommended, etc.)
+- ✅ Responsive design (Mobile, Tablet, Desktop)
+- ✅ Smooth hover and animation effects
+- ✅ Axios used for fetching movie/show data
+- ✅ Backend-ready (Node.js support)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+
+- React.js
+- Tailwind CSS
+- Axios
