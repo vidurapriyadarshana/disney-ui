@@ -3,7 +3,7 @@
 <div align="center">
   <br />
     <a target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/vidurapriyadarshana/disney-ui/blob/main/src/assets/banner/banner.png" alt="Project Banner">
     </a>
   <br />
 
