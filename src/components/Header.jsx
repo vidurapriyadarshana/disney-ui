@@ -24,7 +24,7 @@ const Header = () => {
   ];
 
   return (
-    <div className="flex items-center gap-8 bg-[#141414] py-4 px-6 justify-between p-5">
+    <div className="flex items-center gap-8 py-4 px-6 justify-between p-5">
       <div className="flex items-center gap-8 relative">
         <img
           src={logo}
