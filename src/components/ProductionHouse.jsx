@@ -23,7 +23,7 @@ const ProductionHouse = () => {
   return (
     <div className="flex gap-2 md:gap-5 p-2 md:px-16 px-5">
       {productionHouseList.map((item) => (
-        <div className="border-[2px] border-gray-600 rounded-lg hover:scale-110 transition-all duration-300 ease-in-out cursor-pointer shadow-xl shadow-black">
+        <div key={item.id} className="border-[2px] border-gray-600 rounded-lg hover:scale-110 transition-all duration-300 ease-in-out cursor-pointer shadow-xl shadow-black">
           <video
             src={item.video}
             autoPlay
