@@ -22,7 +22,6 @@ A visually stunning and responsive UI clone of Disney+, built using **React.js**
 - ✅ Responsive design (Mobile, Tablet, Desktop)
 - ✅ Smooth hover and animation effects
 - ✅ Axios used for fetching movie/show data
-- ✅ Backend-ready (Node.js support)
 
 ---
 
